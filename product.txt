@@ -1,0 +1,4 @@
+123 Notebook 0.25
+134 T-shirt 19.99
+205 Textbook 49.95
+375 Laptop 299.99
